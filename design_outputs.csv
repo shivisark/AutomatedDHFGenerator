@@ -1,0 +1,12 @@
+﻿Output ID,Description,Linked Input ID
+DO001,ECG signal acquisition validated using ADAS1000 at 250 Hz in test bench and signal-to-noise ratio confirmed ≥ 20 dB.,DI001
+DO002,Data logging and transmission verified with 7-day continuous operation in simulated patient environment.,DI002
+DO003,BLE 5.0 module integrated with successful data transmission test to Android/iOS app; encryption logs verified.,DI003
+DO004,Device weight measured at 22g; adhesive passed 7-day continuous wear comfort test.,DI004
+DO005,Mobile app onboarding tested with 10 users; setup completed in < 3 minutes with 95% satisfaction rate.,DI005
+DO006,Software confirmed to auto-start monitoring post-setup without manual intervention during 72-hour test cycle.,DI006
+DO007,Final patch enclosure is 4.5mm thick with neutral tone; confirmed unnoticeable under clothing in user trial.,DI007
+DO008,ISO 10993 biocompatibility reports completed and passed for adhesive and enclosure; no irritation in 10-user patch test.,DI008
+DO009,Wireless functionality tested under movement and daily activities; no disconnection over 72-hour dynamic test.,DI009
+DO010,"Patch tested on users during sitting, walking, and sleeping; motion artifact < 5% in ECG recording.",DI010
+DO011,Battery and adhesive module replaced by users in < 1 minute; validated through usability testing.,DI011

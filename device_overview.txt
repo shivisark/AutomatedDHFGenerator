@@ -1,0 +1,23 @@
+
+Wearable ECG Patch
+
+Class II medical device
+
+Purpose: Wearable ECG patch is a diagnostic tool which helps monitor heart rhythm and can prevent fatal conditions like Atrial Fibrillation and reduce stroke risk.
+
+Features:
+- Electrodes
+- Analog front end
+- Microcontroller unit
+- Bluetooth Low Energy Transceiver for wireless transmission
+- Power supply
+- Software system
+- Mobile app
+- PC Interface
+- Posture recognition module
+
+End Users: Cardiac Patients and Clinicians who are monitoring the patch
+
+Environment: Outside of hospital
+
+Regulatory Class: FDA Class II

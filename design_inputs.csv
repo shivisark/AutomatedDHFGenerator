@@ -1,0 +1,12 @@
+﻿Input ID,Description,Linked Need ID
+DI001,"The device shall use a medical-grade ECG front-end (e.g., ADAS1000) with a sampling rate ≥ 250 Hz and signal-to-noise ratio ≥ 20 dB.",UN001
+DI002,The device shall store and/or transmit ECG data continuously for ≥ 7 days with 1-minute resolution.,UN002
+DI003,The device shall support Bluetooth Low Energy (BLE 5.0) with automatic data syncing to cloud via mobile app.,UN003
+DI004,"The patch shall weigh < 25g and use breathable, hypoallergenic adhesive suitable for continuous wear.",UN004
+DI005,The mobile app shall feature an onboarding wizard and video instructions for setup.,UN005
+DI006,The device shall automatically start monitoring after setup and require no further input during regular operation.,UN006
+DI007,The patch shall have a form factor < 5mm thick with skin-tone or transparent housing for discreetness.,UN007
+DI008,The adhesive and outer casing shall be ISO 10993 biocompatible and dermatologically tested.,UN008
+DI009,The patch shall operate wirelessly with internal battery and zero wired components during use.,UN009
+DI010,"The device shall allow full range of motion (e.g., sitting, walking, sleeping) without mechanical interference.",UN010
+DI011,The device battery and adhesive shall be modularly replaceable by user in < 1 minute using a slide-lock mechanism.,UN011

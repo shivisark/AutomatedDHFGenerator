@@ -1,0 +1,12 @@
+﻿Input ID,Verification Method
+DI001,Bench test ECG signal using waveform simulator and confirm sampling rate and signal-to-noise ratio meet specs.
+DI002,Continuous data logging test in simulated use case for 7 days with battery life monitoring and data integrity check.
+DI003,Perform Bluetooth Low Energy (BLE) range test and validate AES encryption via transmission log analysis.
+DI004,Measure device weight and conduct human wear test for 7 days with comfort feedback survey.
+DI005,Usability test with 10 users setting up device and app; measure completion time and error rate.
+DI006,Run 72-hour software test cycle to ensure automatic monitoring starts post-setup with no manual actions.
+DI007,Measure patch thickness and conduct visibility test under clothing on a diverse user group.
+DI008,Submit adhesive and enclosure for ISO 10993 biocompatibility testing and patch wear irritation test.
+DI009,Wireless performance test with daily activity simulation and real-time disconnection logging.
+DI010,"Motion artifact evaluation during sitting, walking, and sleeping using annotated ECG signal recordings."
+DI011,Conduct usability test where users replace battery and adhesive within 1 minute; measure completion time and error rate.

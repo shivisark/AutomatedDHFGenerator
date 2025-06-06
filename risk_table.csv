@@ -1,0 +1,10 @@
+﻿Failure Mode,Effect,Cause,Severity (S),Occurrence (O),Detection (D),RPN,Recommended Action
+ECG signal noise,Misdiagnosis,Loose electrode connection,9,4,3,108,Improve electrode placement & shielding
+BLE transmission fails,Data loss,"Interference, low battery",8,3,4,96,Add auto-reconnect and alert system
+Device adhesive detaches,Interrupted monitoring,"Sweat, poor skin contact",7,4,4,112,Redesign adhesive for better grip
+Skin irritation,User discomfort,Poor adhesive material,5,3,5,75,Switch to ISO 10993-certified adhesive
+Setup errors,Device not collecting data,Poor user onboarding design,8,2,3,48,"Simplify app UI, add guided tutorial"
+Patch visibility concern,Non-compliance with use,Bulky design,4,3,3,36,Reduce thickness and use neutral tones
+API sync failure,Missed real-time alerts,Backend or app issue,7,3,4,84,Add sync verification + alert retry
+Battery dies early,Device shutdown,High power drain,9,2,3,54,Optimize power consumption logic
+Lead-off not detected,Inaccurate ECG reading,Software bug,10,2,3,60,Validate detection logic extensively
